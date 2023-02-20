@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🚧 my todoist stats:
+# Todoist Stats
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
