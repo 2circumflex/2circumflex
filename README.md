@@ -1,6 +1,3 @@
-### Hi there 👋
+Hello, my name is roy.
 
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+I am a Todoist <td-kl></td-kl>
