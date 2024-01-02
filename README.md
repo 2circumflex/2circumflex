@@ -5,5 +5,3 @@ I've been developing apps for most of my career. I'm interested in startups, and
 Skills: React Native / Android / iOS / nestjs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2circumflex)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/2circumflex)  
