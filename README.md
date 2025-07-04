@@ -10,7 +10,7 @@ I enjoy building user-centered products and fostering effective collaboration wi
 - **Mobile**: React Native (Expo), Android, iOS
 - **Web**: React, Next.js, TailwindCSS, shadcn
 - **Backend**: Nest.js (Node.js)
-- **Infrastructure**: Naver Cloud Platform (Finance)
+- **Infrastructure**: Naver Cloud Platform x financial
 - **Security**: App security, root/jailbreak detection
 
 ### 📄 Recommendation Letters
