@@ -8,7 +8,7 @@
 ### 🧰 기술 스택
 
 - **모바일**: React Native (Expo), Android, iOS
-- **웹**: React, Next.js, TailwindCSS, shadcn
+- **웹**: React, React Router, Next.js, TailwindCSS, shadcn
 - **백엔드**: Nest.js (Node.js)
 - **인프라**: 네이버 클라우드 플랫폼 (금융기관용)
 - **보안**: 앱 보안, 루팅/탈옥 탐지
@@ -22,7 +22,7 @@
 
 - 스타트업 제품 개발
 - 개발자 워크플로우 및 자동화 개선
-- AI를 활용한 개발 도구 (예: Cursor, Vercel AI SDK)
+- AI를 활용한 개발 도구 (예: Cursor, Codex, Vercel AI SDK)
 
 ### 📫 연락처
 
