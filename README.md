@@ -8,7 +8,7 @@ I enjoy building user-centered products and fostering effective collaboration wi
 ### 🧰 Tech Stack
 
 - **Mobile**: React Native (Expo), Android, iOS
-- **Web**: React, Next.js, TailwindCSS, shadcn
+- **Web**: React, React Router, Next.js, TailwindCSS, shadcn
 - **Backend**: Nest.js (Node.js)
 - **Infrastructure**: Naver Cloud Platform x financial
 - **Security**: App security, root/jailbreak detection
@@ -22,7 +22,7 @@ You can find them [here](https://github.com/2circumflex/recommendations).
 
 - Building startup products
 - Improving developer workflows & automation
-- Exploring AI-assisted development tools (e.g., Cursor, Vercel AI SDK)
+- Exploring AI-assisted development tools (e.g., Cursor, Codex, Vercel AI SDK)
 
 ### 📫 Contact
 
